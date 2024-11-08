@@ -89,7 +89,7 @@ Olá! Sou Vitor, tenho 18 anos e sou natural de São Paulo. Atualmente, estudo W
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    width="400px"    
+    width="430px"    
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Vitor-Borin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
