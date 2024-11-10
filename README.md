@@ -1,6 +1,6 @@
 # 👨‍💻 Vitor Borin
 
-**`Desenvolvedor Frond End`**
+**`Desenvolvedor Front-End`**
 
 Olá! Sou Vitor, tenho 18 anos e sou natural de São Paulo. Atualmente, estudo Web Design na FIAP, com o objetivo de me tornar um desenvolvedor Front-End. Tenho um grande interesse em tecnologia, sempre motivado a aprender novas ferramentas e técnicas que me ajudem a criar soluções complexas e eficientes.
 
