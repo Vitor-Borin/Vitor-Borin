@@ -7,7 +7,7 @@ Olá! Sou Vitor, tenho 19 anos e sou natural de São Paulo. Atualmente, estudo W
 <p align="left">
       <a href="https://www.instagram.com/vitor.gx_/">
          <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://www.linkedin.com/in/vitor-borin-a85603322/">
+      <a href="https://www.linkedin.com/in/vitor-borin/">
          <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </p>
 
