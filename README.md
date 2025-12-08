@@ -14,7 +14,6 @@ Olá! Sou Vitor, tenho 19 anos e sou natural de São Paulo. Atualmente, estudo W
 ---
 
 ### 🧰 Linguagens e Tecnologias
-### 🧰 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
