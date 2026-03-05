@@ -1,24 +1,22 @@
 # Hi, I'm Vitor Borin 👋
 
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=24&center=false&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+TypeScript+%7C+UI%2FUX;Web+Animations+with+GSAP;Software+Engineering+Student+at+FIAP" />
+</p>
+
 💻 Front-End Developer in progress  
 🎓 Software Engineering Student at FIAP  
 📍 São Paulo, Brazil  
 
 I'm passionate about technology and focused on becoming a Front-End developer.  
-I enjoy building modern web interfaces, interactive experiences and learning new tools that help me develop efficient and scalable solutions.
+I enjoy building modern web interfaces and interactive digital experiences.
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,sass,nextjs,git" />
-</p>
-
-💾 Databases  
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=oracle,mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,sass,nextjs,git,oracle" />
 </p>
 
 ---
@@ -35,7 +33,7 @@ Interactive sci-fi experience where humanity faces the dominance of Artificial I
 ### 🧠 PathFindr
 Digital therapy and career balance platform with gamification and emotional tracking.
 
-**Tech:** React, Tailwind, GSAP
+**Tech:** React, TypeScript, Tailwind, GSAP
 
 ---
 
@@ -46,30 +44,9 @@ Flood alert and emergency support system developed for the FIAP Global Solution.
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced React
-- Front-End Architecture
-- Web Performance
-- Modern Web Animations
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Borin&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Borin&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌐 Connect with me
 
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/vitor-borin/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
