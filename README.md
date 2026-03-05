@@ -1,7 +1,7 @@
 # Hi, I'm Vitor Borin 👋
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=24&center=false&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+TypeScript+%7C+UI%2FUX;Web+Animations+with+GSAP;Software+Engineering+Student+at+FIAP" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=24&center=false&vCenter=true&width=600&lines=Front-End+Developer;Software+Engineering+Student+at+FIAP" />
 </p>
 
 💻 Front-End Developer in progress  
