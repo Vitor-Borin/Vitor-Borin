@@ -16,7 +16,7 @@ I enjoy building modern web interfaces and interactive digital experiences.
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,sass,nextjs,git,oracle" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,sass,nextjs,git,mysql" />
 </p>
 
 ---
