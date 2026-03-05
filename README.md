@@ -1,119 +1,86 @@
-# 👨‍💻 Vitor Borin
+# Hi, I'm Vitor Borin 👋
 
-**`Desenvolvedor Front-End`**
+💻 Front-End Developer in progress  
+🎓 Software Engineering Student at FIAP  
+📍 São Paulo, Brazil  
 
-Olá! Sou Vitor, tenho 19 anos e sou natural de São Paulo. Atualmente, estudo Web Design na FIAP, com o objetivo de me tornar um desenvolvedor Front-End. Tenho um grande interesse em tecnologia, sempre motivado a aprender novas ferramentas e técnicas que me ajudem a criar soluções complexas e eficientes.
+I'm passionate about technology and focused on becoming a Front-End developer.  
+I enjoy building modern web interfaces, interactive experiences and learning new tools that help me develop efficient and scalable solutions.
+
+---
+
+## 🚀 Tech Stack
 
 <p align="left">
-      <a href="https://www.instagram.com/vitor.gx_/">
-         <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://www.linkedin.com/in/vitor-borin/">
-         <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,sass,nextjs,git" />
+</p>
+
+💾 Databases  
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=oracle,mysql" />
 </p>
 
 ---
 
-### 🧰 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+## 🚀 Featured Projects
 
-<br/>
-<br/>
+### 🤖 HUMAN.EXE
+Interactive sci-fi experience where humanity faces the dominance of Artificial Intelligence.
 
-### 📊 Estatísticas
+**Tech:** React, Vite, GSAP
 
-<p>
-  <img
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    width="450px"    
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Vitor-Borin&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      width="350px" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Borin&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
+
+### 🧠 PathFindr
+Digital therapy and career balance platform with gamification and emotional tracking.
+
+**Tech:** React, Tailwind, GSAP
+
+---
+
+### 🚨 SOS Águas
+Flood alert and emergency support system developed for the FIAP Global Solution.
+
+**Tech:** React Native, FastAPI, Oracle Database
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React
+- Front-End Architecture
+- Web Performance
+- Modern Web Animations
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vitor-Borin&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Borin&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vitor-borin/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/vitor.gx_/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+⭐ Always learning and building new things
