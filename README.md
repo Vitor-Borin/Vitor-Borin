@@ -33,7 +33,7 @@ Interactive sci-fi experience where humanity faces the dominance of Artificial I
 ### 🧠 PathFindr
 Digital therapy and career balance platform with gamification and emotional tracking.
 
-**Tech:** React, TypeScript, Tailwind, GSAP
+**Tech:** TypeScript, Tailwind, GSAP
 
 ---
 
