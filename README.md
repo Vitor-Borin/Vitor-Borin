@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=24&center=false&vCenter=true&width=600&lines=Front-End+Developer;Software+Engineering+Student+at+FIAP" />
 </p>
 
-💻 Front-End Developer in progress  
+💻 Front-End Developer  
 🎓 Software Engineering Student at FIAP  
 📍 São Paulo, Brazil  
 
